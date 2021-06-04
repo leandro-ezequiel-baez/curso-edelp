@@ -1,7 +1,5 @@
 
-#navbarSupportedContent{
-    margin-left: 2;
-}
+
 .carousel-inner{
     height: 650px;
 }
@@ -68,4 +66,8 @@ header .logo {
 .card{
     background-color: #ff1d2e;
     
+}
+
+footer{
+    background-color: black;
 }
