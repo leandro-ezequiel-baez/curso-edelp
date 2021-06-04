@@ -1,12 +1,10 @@
 
-li, a {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 500;
-    font-size: 16px;
-    color: blanchedalmond;
-    text-decoration: none;
-}   
-
+#navbarSupportedContent{
+    margin-left: 2;
+}
+.carousel-inner{
+    height: 650px;
+}
 .nav__links {
     list-style: none;
 
@@ -16,8 +14,10 @@ li, a {
     padding:  0px 20px;
 }
 .nav__links li a {
+    
     transition: all 0.3s ease 0s;
 }
+
 
 .nav__links li a:hover{
     color: black;
@@ -31,15 +31,15 @@ header{
     align-items: center;
     transition: 0.6s;
     padding:  40px 100px;
-    }
+}
 
-    header .logo {
+header .logo {
         position: relative;
         font-weight: 700;
         color: #fff;
         text-decoration: none;
         font-size:  2em;
-        text-transform: uppercase;   
+           
         letter-spacing: 2px;
         transition: 0.6s;
     }
@@ -64,10 +64,4 @@ header{
         transition: 0.6s;
 
     }
-    header .sticky {
-        padding: 5px 100px;
-        background: #fff;
-    }
-#menu {
-    background:yellowgreen;
-}
+    
