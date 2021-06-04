@@ -69,3 +69,7 @@ header nav div ul li a{
 footer{
     background-color: black;
 }
+
+footer div div div a{
+    margin-left:5em;
+}
