@@ -60,7 +60,9 @@ header nav div ul li a{
     transition: 0.6s;
 
 }
-    
+p{
+    color: blanchedalmond;
+}    
 .card{
     background-color: #ff1d2e;
     
