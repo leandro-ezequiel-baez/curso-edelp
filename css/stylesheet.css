@@ -105,7 +105,12 @@ footer div div div a{
     display: flex;
     flex-direction: row-reverse;
 }
-.carousel-caption {
-    
-    
+
+.col-redes{
+    display:flex;
+    flex-direction: row-reverse;
+}
+
+.card{
+    border-radius: 2em;
 }
