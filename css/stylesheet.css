@@ -23,6 +23,7 @@ header{
 
 p{
     color: #ededed;
+    text-align:start;   
 }    
 .card{
     background-color: #DE1D22;
@@ -45,6 +46,6 @@ footer div div div a{
 .carousel-caption{
     font-size: 2em;
 }
-
-
-
+section div div{
+    text-align: center;
+}
